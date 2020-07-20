@@ -9,7 +9,7 @@ table,tr,th,td{
     padding: 25px;
 }
 
-body{
+.background{
     background-image: url(/16jul/harshithgudapati.github.io/Background.jpg);
     background-repeat: no-repeat ;
     background-size: cover;
