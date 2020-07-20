@@ -1,0 +1,16 @@
+h2{
+    color: rgb(2, 12, 2);
+}
+
+table,tr,th,td{
+    border: 1px solid black;
+    border-style: solid;
+    box-sizing:initial;
+    padding: 25px;
+}
+
+body{
+    background-image: url(/16jul/harshithgudapati.github.io/Background.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
